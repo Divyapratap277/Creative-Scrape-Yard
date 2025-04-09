@@ -28,7 +28,7 @@ The underlying project helps user to view and buy trending artefacts of all the 
 ![Screenshot (359)](https://github.com/Chinmayk12/Creative-Scrapyard/assets/137162238/ed2570f0-9a51-48cf-8e99-0c27135e079e)
 ![Screenshot (360)](https://github.com/Chinmayk12/Creative-Scrapyard/assets/137162238/2a3efe6b-6793-4eb3-8ea7-e24050cd608c)
 ![Screenshot (363)](https://github.com/Chinmayk12/Creative-Scrapyard/assets/137162238/b9340941-69d3-4e4f-abb6-8eb4ec32412d)
-![Screenshot (362)](https://github.com/Chinmayk12/Creative-Scrapyard/assets/137162238/2ba4b5e0-3d6b-4961-9b70-8832d7d1227d)
+
 
 # Project PPT:
 [Final Capstone Presentation 2023.pdf](https://github.com/Chinmayk12/Creative-Scrapyard/files/12329136/Final.Capstone.Presentation.2023.pdf)
